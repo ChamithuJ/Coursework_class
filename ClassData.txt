@@ -1,0 +1,4 @@
+c j Burgers : 1,u l Burgers : 1,
+n s Burgers : 1,o p Burgers : 1,q e Burgers : 1,
+d e Burgers : 1,l h Burgers : 1,u g Burgers : 1,d f Burgers : 1,u x Burgers : 1,
+50
